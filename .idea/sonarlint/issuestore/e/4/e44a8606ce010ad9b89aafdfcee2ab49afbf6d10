@@ -1,0 +1,11 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÇÛ—º
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ Ñ”
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–∆«
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Û“√¿8⁄óÓÏÜ0
+>
+java:S1068"(Remove this unused "name" private field.(ÇÛ—º
+A
+java:S1068"+Remove this unused "surname" private field.(œ Ñ”
+@
+java:S1068"+Remove this unused "address" private field.(–∆«
