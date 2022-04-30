@@ -30,6 +30,8 @@ General shortcuts:
 > * expand / collapse code : CTRL + (+/-)
 > * expand / collapse all : CTRL + SHIFT + (+/-)
 ------------------------------------------------------------------------
+> * create test : CTRL + SHIFT + T
+> * expand / collapse all : CTRL + SHIFT + (+/-)
 
 1. Editing : 
 
@@ -61,6 +63,12 @@ General shortcuts:
 ------------------------------------------------------------------------
 
 4. Refactoring :
+
+> * refactor code (extract to a variable/ extract to a method / ...) : CTRL + ALT + SHIFT + T
+> * extract local variable : CTRL + ALT + V
+> * extract method : CTRL + ALT + M
+> * inline variable : CTRL + ALT + N
+> * extract to interface : (Select class) + CTRL + ALT + SHIFT + T -> extract to interface
 
 ------------------------------------------------------------------------
 
